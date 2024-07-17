@@ -1,0 +1,3 @@
+[submodule "recbooksys"]
+	path = recbooksys
+	url = https://github.com/AleonaKS/bookrec.git
